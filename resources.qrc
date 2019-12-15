@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Contriver.png</file>
+        <file>resources/align-right.png</file>
+        <file>resources/center-align.png</file>
+        <file>resources/left-align.png</file>
+        <file>resources/font.png</file>
+        <file>resources/font-size.png</file>
+        <file>resources/bold.png</file>
+        <file>resources/italic.png</file>
+        <file>resources/underline.png</file>
+    </qresource>
+</RCC>
