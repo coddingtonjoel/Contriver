@@ -27,7 +27,7 @@
        <enum>QTabWidget::Rounded</enum>
       </property>
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <property name="documentMode">
        <bool>false</bool>
@@ -252,11 +252,6 @@
          </widget>
         </item>
        </layout>
-      </widget>
-      <widget class="QWidget" name="insertTab">
-       <attribute name="title">
-        <string>Insert</string>
-       </attribute>
       </widget>
      </widget>
     </item>
